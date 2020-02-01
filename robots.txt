@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://laengahhoh.juliadibo.com/sitemap.xml
